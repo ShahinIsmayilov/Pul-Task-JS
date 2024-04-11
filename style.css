@@ -1,0 +1,30 @@
+img {
+    width: 390px;
+    height: 180px; 
+    margin: 5px; 
+}
+
+#sekilDiv {
+    display: flex;
+    flex-wrap: wrap; 
+    gap: 3px;
+    position: relative;
+    margin-left: 10px;
+}
+
+body {
+    background-color: #295939;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh; 
+    gap: 3px;
+    color: rgb(255, 255, 255);
+}
+
+button {
+    background-color:#537FE7;
+    margin-bottom: 8px; 
+    color: #252537;
+    border: none;
+}
